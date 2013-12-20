@@ -1,4 +1,6 @@
 Hello-World
 ===========
 
-Hello-World preogram.
+Hello-World program.
+
+print("Hello, world!")
